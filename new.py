@@ -2,7 +2,7 @@
 # By Wjsh
 # On Raspberry Pi
 
-namestr = raw_input('Hi, I\'m Raspberry Pi! What\'s your name?')
+namestr = raw_input('Hi, I\'m Raspberry Pi! What\'s your name? ')
 
 print 'Hi, %s! Here\'s a quick process.' % namestr
 
