@@ -10,3 +10,6 @@ Once I was complaining
 Something wrong had gone through
 
 latest updated
+
+But now everything has changed
+Of what I have ever hoped
